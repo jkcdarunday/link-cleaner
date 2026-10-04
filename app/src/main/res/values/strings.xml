@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Link Cleaner</string>
+    <string name="instructions">Share a link to Link Cleaner. It will follow redirects, remove TikTok tracking, and copy the clean destination to your clipboard.</string>
+    <string name="resolving">Resolving redirects…</string>
+    <string name="copied">Clean link copied to clipboard</string>
+    <string name="clipboard_label">Clean link</string>
+    <string name="share_clean_link">Share clean link</string>
+    <string name="close">Close</string>
+</resources>
